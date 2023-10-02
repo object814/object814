@@ -7,3 +7,6 @@ My name is Haoyu Zhou, nice to meet you!
 ---
 - 📫 How to reach me: zhouhy0108@gmail.com / +8613924639343
 - ⚡ Fun fact: Enjoy playing basketball...🏀
+
+---
+Generalizable Long-Horizon Manipulations with Large Language Models
