@@ -9,4 +9,5 @@ My name is Haoyu Zhou, nice to meet you!
 - ⚡ Fun fact: Enjoy playing basketball...🏀
 
 ---
-Generalizable Long-Horizon Manipulations with Large Language Models
+Projects:
+[Generalizable Long-Horizon Manipulations with Large Language Models](https://object814.github.io/Task-Condition-With-LLM/)
