@@ -10,4 +10,5 @@ My name is Haoyu Zhou, nice to meet you!
 
 ---
 Projects:
+
 [Generalizable Long-Horizon Manipulations with Large Language Models](https://object814.github.io/Task-Condition-With-LLM/)
