@@ -5,7 +5,7 @@ My name is Haoyu Zhou, nice to meet you!
 - 👯 I’m currently a member of LinSLab [https://linsats.github.io/]
 - 🤔 I’m interested in robot control & perception
 ---
-- 📫 How to reach me: zhouhy0108@gmail.com / +6585465558 / +8613924639343
+- 📫 How to reach me: zhouhaoyu01@u.nus.edu / +6585465558 / +8613924639343
 - ⚡ Fun fact: Enjoy playing basketball...🏀
 
 ---
