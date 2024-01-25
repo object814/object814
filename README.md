@@ -22,7 +22,7 @@ Skills:
 
 Familiar with: Python3 (Pytorch, Open3d, OpenCV ...); Robot simulations (Pybullet, Nimble, Diffcloth ...); Design and Renderding (Solidworks, Blender ...)
 
-Have basic knowledge in: C, 
+Have basic knowledge in: C
 
 Knowledge:
 
