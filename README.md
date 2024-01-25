@@ -16,3 +16,16 @@ Publications:
 
 [Generalizable Long-Horizon Manipulations with Large Language Models](https://object814.github.io/Task-Condition-With-LLM/) 
 <strong style="color: orange; font-weight: bold;">ICRA 2024 (Under Review)</strong>
+
+---
+Skills:
+Familiar with: Python3 (Pytorch, Open3d, OpenCV ...); Robot simulations (Pybullet, Nimble, Diffcloth ...); Design and Renderding (Solidworks, Blender ...)
+Have basic knowledge in: C, 
+
+Knowledge:
+I am familiar with/have basic knowledge in robot kinematics and dynamics; automation control; image processing; neural networks (MLP, CNN, RL)
+
+---
+Education Background:
+Undergraduate: Beihang University, Beijing, China; Major in Robotics (average 88.94/100; ranking 6/31)
+Graduate: NUS, Singapore; Major in Robotics (GPA 4.25 for 1st semester)
