@@ -12,4 +12,7 @@ My name is Haoyu Zhou, nice to meet you!
 Publications:
 
 [ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment](https://sites.google.com/view/clothesnet/)
-[Generalizable Long-Horizon Manipulations with Large Language Models](https://object814.github.io/Task-Condition-With-LLM/)
+<strong style="color: orange; font-weight: bold;">ICCV 2023</strong>
+
+[Generalizable Long-Horizon Manipulations with Large Language Models](https://object814.github.io/Task-Condition-With-LLM/) ICRA 2024 (Under Review)
+<strong style="color: red; font-weight: bold;">ICRA 2024</strong>
