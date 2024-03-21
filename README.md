@@ -3,24 +3,26 @@ My name is Haoyu Zhou, nice to meet you!
 - 🔭 I’m currently a graduate student at National University of Singapore.
 - 🌱 My major is Robotics. [https://cde.nus.edu.sg/me/graduate/msc-robotics/]
 - 👯 I’m currently a member of LinSLab [https://linsats.github.io/]
-- 🤔 I’m interested in robot control & perception
+- 🤔 I’m interested in building general manipulation framework, leveraging ML/LLM/VLM/3D vision, as well as imitation learning
 ---
 - 📫 How to reach me: zhouhaoyu01@u.nus.edu / +6585465558 / +8613924639343
-- ⚡ Fun fact: Enjoy playing basketball...🏀
+- ⚡ Fun fact: Enjoy playing basketball🏀/swimming🏊‍
 
 ---
 Publications:
-
-[ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment](https://sites.google.com/view/clothesnet/)
-<strong style="color: orange; font-weight: bold;">ICCV 2023</strong>
+[ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots](https://manifoundationmodel.github.io/)
+<strong style="color: orange; font-weight: bold;">ICRA 2024 (Under Review)</strong>
 
 [Generalizable Long-Horizon Manipulations with Large Language Models](https://object814.github.io/Task-Condition-With-LLM/) 
 <strong style="color: orange; font-weight: bold;">ICRA 2024 (Under Review)</strong>
 
+[ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment](https://sites.google.com/view/clothesnet/)
+<strong style="color: orange; font-weight: bold;">ICCV 2023</strong>
+
 ---
 Skills:
 
-Familiar with: Python3 (Pytorch, Open3d, OpenCV ...); Robot simulations (Pybullet, Nimble, Diffcloth ...); Design and Renderding (Solidworks, Blender ...)
+Familiar with: Python (Pytorch, Open3d, OpenCV ...); Robot simulations (Pybullet, Nimble, Diffcloth ...); Design and Renderding (Solidworks, Blender ...)
 
 Have basic knowledge in: C
 
