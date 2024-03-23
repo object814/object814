@@ -10,6 +10,7 @@ My name is Haoyu Zhou, nice to meet you!
 
 ---
 Publications:
+
 [ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots](https://manifoundationmodel.github.io/)
 <strong style="color: orange; font-weight: bold;">IROS 2024 (Under Review)</strong>
 
