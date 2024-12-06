@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+**I just opened a new personal page [here](https://object814.github.io/), please navigate there and get a better understanding of myself!**
+
 My name is Haoyu Zhou, nice to meet you!
 - 🔭 I’m currently a graduate student at National University of Singapore.
 - 🌱 My major is Robotics. [https://cde.nus.edu.sg/me/graduate/msc-robotics/]
