@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I just opened a new personal page [here](https://object814.github.io/), please navigate there and get a better understanding of myself!**
+<span style="font-size: 15px;">**I just opened a new personal page [here](https://object814.github.io/), please navigate there and get a better understanding of myself!**</span>
 
 My name is Haoyu Zhou, nice to meet you!
 - 🔭 I’m currently a graduate student at National University of Singapore.
